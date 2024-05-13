@@ -1,0 +1,451 @@
+Sentença,Data_Julgamento,Região da Comarca,Tipo de Estratégia,Taxa Contratada,Valor Indenização,Tipo de Processo,Sentença Final
+1,2019-07-01,Oeste,Estrategia C,3.1,0.0,Danos ao Consumidor,Ganhou
+1,2019-07-01,Norte,Estrategia C,2.5,0.0,Responsabilidade Civil,Ganhou
+0,2019-07-02,Sul,Estrategia A,4.0,2247.437093689167,Danos ao Consumidor,Perdeu
+1,2019-07-02,Sul,Estrategia B,2.6,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-07-03,Oeste,Estrategia B,4.1000000000000005,0.0,Quebra de Contrato,Ganhou
+0,2019-07-03,Centro,Estrategia B,4.0,3238.6968677030673,Responsabilidade Civil,Perdeu
+1,2019-07-03,Norte,Estrategia C,2.8000000000000003,0.0,Quebra de Contrato,Ganhou
+1,2019-07-04,Leste,Estrategia B,3.9,0.0,Danos Ambientais,Ganhou
+1,2019-07-04,Sul,Estrategia A,2.4,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-07-05,Leste,Estrategia C,5.2,3309.355547029144,Trabalhistas,Perdeu
+0,2019-07-05,Norte,Estrategia C,3.0,3648.2754166997993,Danos ao Consumidor,Perdeu
+1,2019-07-05,Centro,Estrategia C,3.0,0.0,Quebra de Contrato,Ganhou
+0,2019-07-05,Sul,Estrategia C,2.6,1938.3432747238971,Trabalhistas,Perdeu
+0,2019-07-06,Leste,Estrategia A,2.4,2567.055982041453,Violação de Propriedade Intelectual,Perdeu
+0,2019-07-06,Norte,Estrategia A,2.3,1914.5097626714728,Danos Ambientais,Perdeu
+0,2019-07-07,Oeste,Estrategia C,3.8,3119.643874651484,Trabalhistas,Perdeu
+1,2019-07-07,Norte,Estrategia B,3.4000000000000004,0.0,Danos ao Consumidor,Ganhou
+0,2019-07-07,Sul,Estrategia B,2.5,3331.3338662247697,Responsabilidade Civil,Perdeu
+1,2019-07-08,Leste,Estrategia B,3.5999999999999996,0.0,Danos Ambientais,Ganhou
+1,2019-07-08,Centro,Estrategia C,2.8000000000000003,0.0,Danos ao Consumidor,Ganhou
+1,2019-07-09,Oeste,Estrategia A,2.0,0.0,Danos ao Consumidor,Ganhou
+1,2019-07-10,Centro,Estrategia A,2.5,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-07-10,Centro,Estrategia A,2.5,0.0,Trabalhistas,Ganhou
+1,2019-07-10,Leste,Estrategia A,1.7999999999999998,0.0,Danos ao Consumidor,Ganhou
+0,2019-07-11,Centro,Estrategia C,3.1,4035.255113579853,Responsabilidade Civil,Perdeu
+1,2019-07-11,Sul,Estrategia B,2.8000000000000003,0.0,Trabalhistas,Ganhou
+0,2019-07-11,Norte,Estrategia A,2.6,3327.877894316143,Quebra de Contrato,Perdeu
+0,2019-07-12,Oeste,Estrategia A,4.1000000000000005,3415.4775833237945,Responsabilidade Civil,Perdeu
+0,2019-07-12,Centro,Estrategia A,3.8,3303.65388399558,Responsabilidade Civil,Perdeu
+0,2019-07-12,Norte,Estrategia C,2.9000000000000004,2841.111137388597,Danos ao Consumidor,Perdeu
+1,2019-07-12,Norte,Estrategia C,2.3,0.0,Danos ao Consumidor,Ganhou
+1,2019-07-13,Sul,Estrategia B,3.6999999999999997,0.0,Danos Ambientais,Ganhou
+1,2019-07-13,Oeste,Estrategia B,3.0,0.0,Trabalhistas,Ganhou
+0,2019-07-14,Oeste,Estrategia A,4.6,4111.651470596669,Danos Ambientais,Perdeu
+1,2019-07-14,Norte,Estrategia A,2.7,0.0,Danos Ambientais,Ganhou
+1,2019-07-14,Sul,Estrategia B,1.9,0.0,Danos ao Consumidor,Ganhou
+0,2019-07-16,Norte,Estrategia C,3.8,2863.5872075158895,Violação de Propriedade Intelectual,Perdeu
+1,2019-07-16,Centro,Estrategia A,3.1,0.0,Danos ao Consumidor,Ganhou
+1,2019-07-16,Centro,Estrategia C,2.7,0.0,Responsabilidade Civil,Ganhou
+1,2019-07-16,Centro,Estrategia A,2.5,0.0,Danos Ambientais,Ganhou
+1,2019-07-17,Norte,Estrategia C,2.8000000000000003,0.0,Quebra de Contrato,Ganhou
+0,2019-07-17,Norte,Estrategia B,2.7,2688.930443277298,Danos Ambientais,Perdeu
+0,2019-07-18,Norte,Estrategia A,3.3000000000000003,3746.6681378086205,Danos ao Consumidor,Perdeu
+1,2019-07-18,Norte,Estrategia A,3.1,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-07-18,Sul,Estrategia C,2.8000000000000003,3484.136592954948,Violação de Propriedade Intelectual,Perdeu
+0,2019-07-18,Sul,Estrategia A,2.0,2862.555103227946,Danos Ambientais,Perdeu
+1,2019-07-19,Oeste,Estrategia A,3.0,0.0,Trabalhistas,Ganhou
+1,2019-07-20,Leste,Estrategia C,4.2,0.0,Danos ao Consumidor,Ganhou
+0,2019-07-20,Norte,Estrategia A,4.1000000000000005,3107.346862715912,Danos Ambientais,Perdeu
+1,2019-07-20,Norte,Estrategia A,2.4,0.0,Danos ao Consumidor,Ganhou
+0,2019-07-21,Leste,Estrategia C,3.1,2816.3960929285968,Responsabilidade Civil,Perdeu
+1,2019-07-21,Sul,Estrategia A,2.3,0.0,Quebra de Contrato,Ganhou
+0,2019-07-22,Sul,Estrategia A,4.5,3102.1558136803183,Responsabilidade Civil,Perdeu
+1,2019-07-22,Sul,Estrategia C,2.5,0.0,Trabalhistas,Ganhou
+1,2019-07-23,Sul,Estrategia A,3.8,0.0,Trabalhistas,Ganhou
+0,2019-07-23,Norte,Estrategia A,3.4000000000000004,2720.4497973532552,Responsabilidade Civil,Perdeu
+0,2019-07-23,Leste,Estrategia C,3.4000000000000004,3552.407386008108,Violação de Propriedade Intelectual,Perdeu
+0,2019-07-24,Oeste,Estrategia B,4.3999999999999995,3000.6113475754946,Trabalhistas,Perdeu
+0,2019-07-24,Sul,Estrategia C,4.3999999999999995,3529.881775908148,Responsabilidade Civil,Perdeu
+0,2019-07-24,Oeste,Estrategia C,3.8,2218.460989725348,Trabalhistas,Perdeu
+0,2019-07-25,Centro,Estrategia A,4.5,3994.2435242742054,Responsabilidade Civil,Perdeu
+1,2019-07-25,Leste,Estrategia C,4.1000000000000005,0.0,Danos Ambientais,Ganhou
+1,2019-07-25,Oeste,Estrategia B,2.4,0.0,Danos Ambientais,Ganhou
+0,2019-07-26,Leste,Estrategia C,3.8,3293.2888066280575,Responsabilidade Civil,Perdeu
+0,2019-07-26,Leste,Estrategia A,3.5999999999999996,4210.72105780614,Trabalhistas,Perdeu
+0,2019-07-27,Sul,Estrategia A,3.1,2699.1489209088695,Quebra de Contrato,Perdeu
+0,2019-07-27,Leste,Estrategia A,2.6,3281.2962426106433,Trabalhistas,Perdeu
+1,2019-07-27,Centro,Estrategia A,2.3,0.0,Danos Ambientais,Ganhou
+0,2019-07-27,Oeste,Estrategia C,1.9,3325.027983575778,Danos Ambientais,Perdeu
+0,2019-07-29,Centro,Estrategia A,3.5999999999999996,3168.757786045988,Responsabilidade Civil,Perdeu
+1,2019-07-29,Norte,Estrategia C,3.2,0.0,Trabalhistas,Ganhou
+1,2019-07-29,Leste,Estrategia A,1.9,0.0,Danos Ambientais,Ganhou
+1,2019-07-29,Oeste,Estrategia A,1.7999999999999998,0.0,Danos ao Consumidor,Ganhou
+0,2019-07-30,Centro,Estrategia C,1.4000000000000001,3319.384541541971,Danos Ambientais,Perdeu
+1,2019-07-31,Sul,Estrategia A,4.0,0.0,Danos ao Consumidor,Ganhou
+0,2019-07-31,Centro,Estrategia B,3.6999999999999997,1947.4864453272808,Quebra de Contrato,Perdeu
+1,2019-07-31,Oeste,Estrategia C,3.4000000000000004,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-07-31,Leste,Estrategia A,3.2,0.0,Quebra de Contrato,Ganhou
+0,2019-07-31,Oeste,Estrategia B,2.8000000000000003,3026.501503706779,Danos ao Consumidor,Perdeu
+1,2019-07-31,Norte,Estrategia B,2.5,0.0,Responsabilidade Civil,Ganhou
+0,2019-08-01,Norte,Estrategia B,3.4000000000000004,2934.3546145688547,Violação de Propriedade Intelectual,Perdeu
+0,2019-08-01,Norte,Estrategia C,3.1,3159.5935417176643,Responsabilidade Civil,Perdeu
+1,2019-08-01,Oeste,Estrategia C,2.1999999999999997,0.0,Quebra de Contrato,Ganhou
+0,2019-08-02,Norte,Estrategia B,3.5999999999999996,2809.724104001593,Quebra de Contrato,Perdeu
+1,2019-08-02,Centro,Estrategia C,3.1,0.0,Quebra de Contrato,Ganhou
+0,2019-08-02,Norte,Estrategia A,2.8000000000000003,3133.86328671122,Quebra de Contrato,Perdeu
+1,2019-08-02,Leste,Estrategia C,2.1999999999999997,0.0,Trabalhistas,Ganhou
+1,2019-08-03,Centro,Estrategia C,3.8,0.0,Danos Ambientais,Ganhou
+0,2019-08-03,Sul,Estrategia A,3.4000000000000004,2771.6690143970372,Danos Ambientais,Perdeu
+1,2019-08-03,Sul,Estrategia A,3.0,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-08-04,Norte,Estrategia A,2.9000000000000004,0.0,Danos Ambientais,Ganhou
+1,2019-08-04,Centro,Estrategia A,2.3,0.0,Responsabilidade Civil,Ganhou
+1,2019-08-05,Centro,Estrategia A,3.3000000000000003,0.0,Danos Ambientais,Ganhou
+1,2019-08-05,Centro,Estrategia B,2.9000000000000004,0.0,Responsabilidade Civil,Ganhou
+1,2019-08-05,Sul,Estrategia A,2.7,0.0,Trabalhistas,Ganhou
+0,2019-08-05,Sul,Estrategia A,2.5,4379.838416619755,Violação de Propriedade Intelectual,Perdeu
+0,2019-08-06,Oeste,Estrategia B,4.1000000000000005,2712.793472445488,Violação de Propriedade Intelectual,Perdeu
+0,2019-08-07,Sul,Estrategia C,2.6,2726.420564787084,Responsabilidade Civil,Perdeu
+1,2019-08-07,Norte,Estrategia B,2.1,0.0,Danos Ambientais,Ganhou
+1,2019-08-08,Norte,Estrategia C,3.6999999999999997,0.0,Danos Ambientais,Ganhou
+1,2019-08-08,Sul,Estrategia A,3.1,0.0,Trabalhistas,Ganhou
+1,2019-08-08,Leste,Estrategia A,2.8000000000000003,0.0,Quebra de Contrato,Ganhou
+1,2019-08-08,Oeste,Estrategia C,2.5,0.0,Trabalhistas,Ganhou
+0,2019-08-09,Norte,Estrategia B,4.0,3780.4154502713936,Quebra de Contrato,Perdeu
+1,2019-08-09,Sul,Estrategia C,3.2,0.0,Danos ao Consumidor,Ganhou
+1,2019-08-09,Leste,Estrategia A,2.7,0.0,Responsabilidade Civil,Ganhou
+0,2019-08-10,Leste,Estrategia A,4.2,3422.320623539685,Trabalhistas,Perdeu
+0,2019-08-10,Oeste,Estrategia A,1.9,3672.7185785858915,Trabalhistas,Perdeu
+1,2019-08-10,Sul,Estrategia B,0.3,0.0,Responsabilidade Civil,Ganhou
+1,2019-08-11,Leste,Estrategia C,5.1,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-08-11,Leste,Estrategia C,3.3000000000000003,0.0,Danos Ambientais,Ganhou
+1,2019-08-11,Oeste,Estrategia A,2.8000000000000003,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-08-11,Oeste,Estrategia A,2.8000000000000003,2329.745739595486,Responsabilidade Civil,Perdeu
+1,2019-08-12,Centro,Estrategia B,3.2,0.0,Responsabilidade Civil,Ganhou
+0,2019-08-12,Oeste,Estrategia A,3.0,3958.5607361832253,Responsabilidade Civil,Perdeu
+1,2019-08-12,Sul,Estrategia C,2.3,0.0,Responsabilidade Civil,Ganhou
+0,2019-08-13,Oeste,Estrategia A,3.4000000000000004,2448.4811175979225,Danos ao Consumidor,Perdeu
+0,2019-08-13,Sul,Estrategia B,3.4000000000000004,2512.102626485838,Violação de Propriedade Intelectual,Perdeu
+1,2019-08-13,Centro,Estrategia C,3.4000000000000004,0.0,Quebra de Contrato,Ganhou
+0,2019-08-13,Leste,Estrategia B,3.3000000000000003,2629.3254360273727,Danos Ambientais,Perdeu
+0,2019-08-13,Oeste,Estrategia A,2.7,2924.8218346358244,Danos Ambientais,Perdeu
+1,2019-08-14,Norte,Estrategia C,3.1,0.0,Trabalhistas,Ganhou
+0,2019-08-14,Centro,Estrategia A,2.1,3038.4404905011006,Danos Ambientais,Perdeu
+1,2019-08-14,Oeste,Estrategia A,1.3,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-08-15,Leste,Estrategia C,4.5,2006.8988999097564,Violação de Propriedade Intelectual,Perdeu
+1,2019-08-15,Leste,Estrategia B,3.9,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-08-15,Oeste,Estrategia B,2.1999999999999997,0.0,Trabalhistas,Ganhou
+0,2019-08-16,Norte,Estrategia B,4.0,2964.0914300583127,Danos ao Consumidor,Perdeu
+0,2019-08-16,Leste,Estrategia A,3.0,4184.010961464453,Responsabilidade Civil,Perdeu
+1,2019-08-16,Norte,Estrategia C,1.4000000000000001,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-08-17,Sul,Estrategia B,4.3999999999999995,0.0,Trabalhistas,Ganhou
+1,2019-08-17,Oeste,Estrategia B,2.5,0.0,Quebra de Contrato,Ganhou
+1,2019-08-18,Sul,Estrategia B,3.5999999999999996,0.0,Danos Ambientais,Ganhou
+0,2019-08-18,Centro,Estrategia A,3.5999999999999996,3002.3194806515144,Danos Ambientais,Perdeu
+0,2019-08-19,Oeste,Estrategia B,4.3999999999999995,3297.9200372166356,Trabalhistas,Perdeu
+0,2019-08-19,Centro,Estrategia A,4.1000000000000005,2294.3058825393605,Responsabilidade Civil,Perdeu
+1,2019-08-19,Centro,Estrategia A,4.0,0.0,Quebra de Contrato,Ganhou
+1,2019-08-19,Oeste,Estrategia B,3.3000000000000003,0.0,Danos ao Consumidor,Ganhou
+0,2019-08-19,Norte,Estrategia C,3.2,1972.8663816031174,Danos Ambientais,Perdeu
+0,2019-08-20,Centro,Estrategia A,4.1000000000000005,3451.367447416743,Responsabilidade Civil,Perdeu
+0,2019-08-20,Norte,Estrategia C,3.4000000000000004,2531.6275994329717,Danos ao Consumidor,Perdeu
+0,2019-08-20,Centro,Estrategia A,2.8000000000000003,3206.097845884365,Trabalhistas,Perdeu
+1,2019-08-20,Sul,Estrategia B,2.6,0.0,Danos Ambientais,Ganhou
+1,2019-08-21,Centro,Estrategia B,3.5000000000000004,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-08-21,Centro,Estrategia B,2.1,2851.718276077214,Danos ao Consumidor,Perdeu
+0,2019-08-22,Sul,Estrategia A,3.5000000000000004,2645.7562597917413,Violação de Propriedade Intelectual,Perdeu
+0,2019-08-22,Centro,Estrategia C,2.7,3428.701276712899,Violação de Propriedade Intelectual,Perdeu
+0,2019-08-23,Norte,Estrategia C,3.2,3061.5148973665214,Trabalhistas,Perdeu
+0,2019-08-23,Centro,Estrategia B,2.6,3217.3304203397593,Violação de Propriedade Intelectual,Perdeu
+1,2019-08-23,Centro,Estrategia B,1.3,0.0,Quebra de Contrato,Ganhou
+0,2019-08-24,Centro,Estrategia C,3.4000000000000004,2875.8921111792833,Responsabilidade Civil,Perdeu
+0,2019-08-24,Norte,Estrategia A,2.7,3076.8706952206094,Responsabilidade Civil,Perdeu
+0,2019-08-24,Sul,Estrategia A,2.5,3584.7146870413876,Violação de Propriedade Intelectual,Perdeu
+1,2019-08-26,Leste,Estrategia B,3.3000000000000003,0.0,Danos ao Consumidor,Ganhou
+0,2019-08-26,Sul,Estrategia A,2.9000000000000004,2967.9863344168425,Violação de Propriedade Intelectual,Perdeu
+1,2019-08-26,Norte,Estrategia C,2.8000000000000003,0.0,Trabalhistas,Ganhou
+1,2019-08-27,Sul,Estrategia C,2.7,0.0,Trabalhistas,Ganhou
+0,2019-08-27,Norte,Estrategia A,2.5,3616.8727890295368,Danos Ambientais,Perdeu
+1,2019-08-27,Leste,Estrategia C,1.9,0.0,Trabalhistas,Ganhou
+0,2019-08-27,Sul,Estrategia A,1.7999999999999998,3160.1226131120065,Responsabilidade Civil,Perdeu
+0,2019-08-28,Leste,Estrategia C,3.4000000000000004,3639.1768515352146,Quebra de Contrato,Perdeu
+1,2019-08-28,Sul,Estrategia C,1.7000000000000002,0.0,Danos ao Consumidor,Ganhou
+0,2019-08-29,Sul,Estrategia B,3.0,3165.094218056229,Responsabilidade Civil,Perdeu
+1,2019-08-29,Sul,Estrategia A,2.5,0.0,Trabalhistas,Ganhou
+0,2019-08-29,Leste,Estrategia C,2.1999999999999997,3021.3244306825623,Responsabilidade Civil,Perdeu
+0,2019-08-30,Sul,Estrategia C,3.5000000000000004,3065.990802278048,Violação de Propriedade Intelectual,Perdeu
+1,2019-08-30,Oeste,Estrategia B,3.1,0.0,Trabalhistas,Ganhou
+1,2019-08-30,Leste,Estrategia C,2.6,0.0,Quebra de Contrato,Ganhou
+1,2019-08-30,Sul,Estrategia C,1.6,0.0,Quebra de Contrato,Ganhou
+0,2019-08-31,Oeste,Estrategia C,4.5,2365.824987867566,Trabalhistas,Perdeu
+1,2019-08-31,Norte,Estrategia A,2.9000000000000004,0.0,Danos ao Consumidor,Ganhou
+1,2019-08-31,Leste,Estrategia B,2.7,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-08-31,Sul,Estrategia A,2.5,3194.5494332105395,Danos Ambientais,Perdeu
+1,2019-08-31,Norte,Estrategia A,1.7999999999999998,0.0,Trabalhistas,Ganhou
+0,2019-09-01,Sul,Estrategia C,2.4,2339.873739678895,Danos Ambientais,Perdeu
+0,2019-09-02,Leste,Estrategia C,4.3,2971.069668179968,Responsabilidade Civil,Perdeu
+1,2019-09-02,Centro,Estrategia B,3.3000000000000003,0.0,Danos Ambientais,Ganhou
+0,2019-09-02,Oeste,Estrategia C,3.3000000000000003,2715.0334806372166,Trabalhistas,Perdeu
+0,2019-09-02,Leste,Estrategia A,2.3,3632.341779658492,Violação de Propriedade Intelectual,Perdeu
+1,2019-09-02,Oeste,Estrategia A,2.1999999999999997,0.0,Quebra de Contrato,Ganhou
+0,2019-09-02,Oeste,Estrategia B,2.1,3278.4103163432856,Danos Ambientais,Perdeu
+0,2019-09-03,Oeste,Estrategia C,3.2,2772.1186632616623,Trabalhistas,Perdeu
+0,2019-09-04,Centro,Estrategia C,3.6999999999999997,2172.760372250409,Quebra de Contrato,Perdeu
+1,2019-09-04,Oeste,Estrategia A,2.6,0.0,Quebra de Contrato,Ganhou
+0,2019-09-04,Centro,Estrategia B,2.4,2916.67466129978,Danos Ambientais,Perdeu
+0,2019-09-05,Oeste,Estrategia C,3.2,2798.780322214999,Trabalhistas,Perdeu
+1,2019-09-06,Centro,Estrategia A,3.5999999999999996,0.0,Danos ao Consumidor,Ganhou
+1,2019-09-06,Oeste,Estrategia C,3.3000000000000003,0.0,Quebra de Contrato,Ganhou
+0,2019-09-06,Sul,Estrategia A,3.1,2721.740706510217,Danos ao Consumidor,Perdeu
+0,2019-09-06,Leste,Estrategia A,2.8000000000000003,2859.9049867454996,Danos Ambientais,Perdeu
+1,2019-09-06,Centro,Estrategia B,2.1,0.0,Danos Ambientais,Ganhou
+0,2019-09-07,Centro,Estrategia B,3.6999999999999997,3260.0979014466093,Quebra de Contrato,Perdeu
+0,2019-09-07,Centro,Estrategia C,2.7,3229.8351370354694,Responsabilidade Civil,Perdeu
+0,2019-09-08,Norte,Estrategia B,4.5,3307.1245024501745,Danos Ambientais,Perdeu
+0,2019-09-08,Oeste,Estrategia C,3.9,3499.5422366294397,Violação de Propriedade Intelectual,Perdeu
+1,2019-09-08,Norte,Estrategia C,3.0,0.0,Danos ao Consumidor,Ganhou
+0,2019-09-08,Centro,Estrategia B,2.5,2287.0744955732926,Quebra de Contrato,Perdeu
+0,2019-09-09,Oeste,Estrategia C,4.1000000000000005,3466.0368803797255,Quebra de Contrato,Perdeu
+0,2019-09-09,Leste,Estrategia B,3.3000000000000003,2269.5337325741666,Quebra de Contrato,Perdeu
+1,2019-09-09,Centro,Estrategia C,2.5,0.0,Danos ao Consumidor,Ganhou
+0,2019-09-09,Centro,Estrategia B,2.4,3477.8485405817423,Responsabilidade Civil,Perdeu
+0,2019-09-10,Norte,Estrategia A,4.0,2395.9766809515113,Trabalhistas,Perdeu
+0,2019-09-11,Norte,Estrategia B,3.2,2902.383617031281,Violação de Propriedade Intelectual,Perdeu
+1,2019-09-11,Norte,Estrategia B,3.0,0.0,Danos ao Consumidor,Ganhou
+0,2019-09-12,Sul,Estrategia B,3.6999999999999997,3608.9268244166587,Responsabilidade Civil,Perdeu
+0,2019-09-12,Sul,Estrategia B,3.5999999999999996,3523.0893191343384,Danos ao Consumidor,Perdeu
+0,2019-09-12,Norte,Estrategia C,2.5,3591.9062092503264,Responsabilidade Civil,Perdeu
+1,2019-09-13,Norte,Estrategia B,3.4000000000000004,0.0,Responsabilidade Civil,Ganhou
+0,2019-09-13,Oeste,Estrategia A,3.2,3557.695098155137,Quebra de Contrato,Perdeu
+0,2019-09-14,Oeste,Estrategia C,3.5999999999999996,3441.9165536511564,Trabalhistas,Perdeu
+1,2019-09-14,Sul,Estrategia A,3.4000000000000004,0.0,Danos Ambientais,Ganhou
+0,2019-09-14,Sul,Estrategia B,3.1,2860.156501067824,Quebra de Contrato,Perdeu
+0,2019-09-14,Leste,Estrategia B,2.7,2331.0868220298607,Trabalhistas,Perdeu
+0,2019-09-14,Centro,Estrategia C,2.1,2331.216869751403,Quebra de Contrato,Perdeu
+0,2019-09-15,Leste,Estrategia A,2.5,2453.6772713387372,Danos Ambientais,Perdeu
+0,2019-09-15,Centro,Estrategia B,2.3,3353.433397492388,Responsabilidade Civil,Perdeu
+0,2019-09-16,Centro,Estrategia B,4.6,2905.6897892080697,Quebra de Contrato,Perdeu
+1,2019-09-16,Leste,Estrategia A,2.4,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-09-16,Sul,Estrategia C,2.1999999999999997,3365.016646325815,Danos ao Consumidor,Perdeu
+1,2019-09-17,Oeste,Estrategia A,3.3000000000000003,0.0,Danos Ambientais,Ganhou
+1,2019-09-17,Sul,Estrategia B,3.0,0.0,Quebra de Contrato,Ganhou
+1,2019-09-17,Sul,Estrategia B,2.4,0.0,Trabalhistas,Ganhou
+1,2019-09-18,Sul,Estrategia B,3.5999999999999996,0.0,Trabalhistas,Ganhou
+0,2019-09-18,Leste,Estrategia A,3.2,2945.955820735519,Quebra de Contrato,Perdeu
+1,2019-09-18,Leste,Estrategia B,3.1,0.0,Danos Ambientais,Ganhou
+1,2019-09-18,Leste,Estrategia C,2.1,0.0,Trabalhistas,Ganhou
+1,2019-09-19,Leste,Estrategia B,2.8000000000000003,0.0,Danos ao Consumidor,Ganhou
+1,2019-09-19,Oeste,Estrategia B,2.7,0.0,Trabalhistas,Ganhou
+1,2019-09-19,Leste,Estrategia A,2.5,0.0,Trabalhistas,Ganhou
+1,2019-09-20,Norte,Estrategia B,2.9000000000000004,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-09-20,Leste,Estrategia B,2.8000000000000003,2501.286220525732,Violação de Propriedade Intelectual,Perdeu
+0,2019-09-21,Oeste,Estrategia B,4.0,3070.9246219735414,Responsabilidade Civil,Perdeu
+0,2019-09-21,Oeste,Estrategia A,2.4,4140.209624198373,Danos ao Consumidor,Perdeu
+0,2019-09-21,Leste,Estrategia B,2.3,3766.2015265979435,Violação de Propriedade Intelectual,Perdeu
+0,2019-09-22,Oeste,Estrategia A,4.6,3066.475301479174,Trabalhistas,Perdeu
+0,2019-09-22,Centro,Estrategia A,2.9000000000000004,3153.0618396538835,Violação de Propriedade Intelectual,Perdeu
+1,2019-09-22,Oeste,Estrategia A,2.5,0.0,Danos Ambientais,Ganhou
+1,2019-09-24,Norte,Estrategia C,2.7,0.0,Responsabilidade Civil,Ganhou
+0,2019-09-24,Centro,Estrategia A,2.5,2672.6658549362373,Danos ao Consumidor,Perdeu
+0,2019-09-25,Oeste,Estrategia A,5.3,3334.093105665076,Violação de Propriedade Intelectual,Perdeu
+0,2019-09-25,Norte,Estrategia C,3.3000000000000003,2711.8241556290413,Violação de Propriedade Intelectual,Perdeu
+0,2019-09-25,Centro,Estrategia A,2.8000000000000003,3430.734456497532,Danos Ambientais,Perdeu
+0,2019-09-26,Norte,Estrategia C,2.9000000000000004,3579.204033162463,Violação de Propriedade Intelectual,Perdeu
+0,2019-09-26,Centro,Estrategia A,2.7,3949.3906534709254,Danos Ambientais,Perdeu
+0,2019-09-26,Centro,Estrategia A,2.6,3268.802668290434,Danos ao Consumidor,Perdeu
+0,2019-09-27,Leste,Estrategia B,3.5999999999999996,3076.2480251044944,Danos Ambientais,Perdeu
+0,2019-09-27,Sul,Estrategia A,3.5000000000000004,3382.646547339128,Trabalhistas,Perdeu
+1,2019-09-27,Oeste,Estrategia A,2.7,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-09-27,Norte,Estrategia A,2.4,0.0,Quebra de Contrato,Ganhou
+0,2019-09-28,Norte,Estrategia C,3.8,3102.5003354500054,Quebra de Contrato,Perdeu
+0,2019-09-28,Norte,Estrategia B,3.0,3221.507976799345,Responsabilidade Civil,Perdeu
+0,2019-09-28,Norte,Estrategia A,2.4,3393.8672865575404,Quebra de Contrato,Perdeu
+0,2019-09-29,Sul,Estrategia C,1.5,2530.9892578603353,Trabalhistas,Perdeu
+0,2019-09-30,Centro,Estrategia C,3.4000000000000004,3051.7642931283385,Quebra de Contrato,Perdeu
+0,2019-09-30,Leste,Estrategia A,2.7,2630.59786276959,Danos Ambientais,Perdeu
+0,2019-09-30,Norte,Estrategia A,2.3,2243.208708584099,Responsabilidade Civil,Perdeu
+1,2019-09-30,Norte,Estrategia A,2.1999999999999997,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-10-01,Norte,Estrategia A,3.0,3148.4852570264393,Danos Ambientais,Perdeu
+1,2019-10-01,Norte,Estrategia B,2.9000000000000004,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-10-01,Leste,Estrategia C,2.8000000000000003,3038.433603935477,Quebra de Contrato,Perdeu
+0,2019-10-02,Sul,Estrategia C,4.3,2946.358364167501,Danos ao Consumidor,Perdeu
+0,2019-10-02,Sul,Estrategia C,2.6,3229.098047137767,Trabalhistas,Perdeu
+1,2019-10-02,Sul,Estrategia B,0.8999999999999999,0.0,Trabalhistas,Ganhou
+0,2019-10-03,Sul,Estrategia A,4.1000000000000005,2475.5934252098446,Danos ao Consumidor,Perdeu
+0,2019-10-03,Norte,Estrategia A,3.8,3786.442437178664,Trabalhistas,Perdeu
+1,2019-10-03,Leste,Estrategia C,3.1,0.0,Quebra de Contrato,Ganhou
+1,2019-10-03,Leste,Estrategia B,3.1,0.0,Responsabilidade Civil,Ganhou
+1,2019-10-03,Norte,Estrategia A,2.0,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-10-04,Sul,Estrategia C,3.3000000000000003,0.0,Quebra de Contrato,Ganhou
+1,2019-10-04,Leste,Estrategia B,2.3,0.0,Trabalhistas,Ganhou
+0,2019-10-05,Oeste,Estrategia C,4.9,3869.353279145487,Quebra de Contrato,Perdeu
+0,2019-10-05,Centro,Estrategia A,3.1,3123.493406554002,Trabalhistas,Perdeu
+1,2019-10-06,Oeste,Estrategia B,3.3000000000000003,0.0,Danos ao Consumidor,Ganhou
+1,2019-10-06,Leste,Estrategia B,2.9000000000000004,0.0,Trabalhistas,Ganhou
+1,2019-10-06,Leste,Estrategia C,1.9,0.0,Trabalhistas,Ganhou
+1,2019-10-07,Sul,Estrategia C,2.9000000000000004,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-10-08,Centro,Estrategia C,3.9,3894.303265243207,Danos ao Consumidor,Perdeu
+1,2019-10-08,Leste,Estrategia C,3.3000000000000003,0.0,Danos Ambientais,Ganhou
+0,2019-10-09,Norte,Estrategia A,1.7999999999999998,2938.9661210325726,Responsabilidade Civil,Perdeu
+1,2019-10-09,Leste,Estrategia A,1.5,0.0,Quebra de Contrato,Ganhou
+0,2019-10-10,Norte,Estrategia A,3.0,2916.972618604985,Violação de Propriedade Intelectual,Perdeu
+0,2019-10-10,Oeste,Estrategia C,2.9000000000000004,3081.209762648992,Danos ao Consumidor,Perdeu
+0,2019-10-10,Sul,Estrategia B,1.6,2432.6316529949604,Trabalhistas,Perdeu
+1,2019-10-11,Centro,Estrategia B,3.9,0.0,Responsabilidade Civil,Ganhou
+0,2019-10-11,Leste,Estrategia A,2.3,3086.233103912501,Responsabilidade Civil,Perdeu
+1,2019-10-12,Oeste,Estrategia B,3.1,0.0,Danos Ambientais,Ganhou
+1,2019-10-12,Norte,Estrategia A,2.7,0.0,Quebra de Contrato,Ganhou
+0,2019-10-13,Norte,Estrategia B,4.1000000000000005,2965.5841068814143,Danos ao Consumidor,Perdeu
+0,2019-10-13,Leste,Estrategia C,2.9000000000000004,2527.377325307056,Danos Ambientais,Perdeu
+0,2019-10-13,Centro,Estrategia C,2.8000000000000003,3746.8958543749154,Danos Ambientais,Perdeu
+0,2019-10-14,Oeste,Estrategia B,3.3000000000000003,3397.209977340226,Danos Ambientais,Perdeu
+1,2019-10-14,Norte,Estrategia B,2.9000000000000004,0.0,Danos ao Consumidor,Ganhou
+1,2019-10-15,Centro,Estrategia B,4.0,0.0,Trabalhistas,Ganhou
+0,2019-10-15,Centro,Estrategia C,3.9,3581.48607194777,Quebra de Contrato,Perdeu
+0,2019-10-15,Oeste,Estrategia C,3.3000000000000003,2480.4568877760244,Quebra de Contrato,Perdeu
+1,2019-10-16,Sul,Estrategia A,3.0,0.0,Trabalhistas,Ganhou
+1,2019-10-16,Oeste,Estrategia B,1.9,0.0,Danos ao Consumidor,Ganhou
+1,2019-10-16,Norte,Estrategia B,1.5,0.0,Trabalhistas,Ganhou
+1,2019-10-17,Oeste,Estrategia C,2.4,0.0,Responsabilidade Civil,Ganhou
+0,2019-10-18,Norte,Estrategia B,3.5999999999999996,3395.788417969008,Quebra de Contrato,Perdeu
+1,2019-10-19,Centro,Estrategia C,3.9,0.0,Danos ao Consumidor,Ganhou
+0,2019-10-19,Centro,Estrategia C,1.7999999999999998,3087.742812197072,Violação de Propriedade Intelectual,Perdeu
+0,2019-10-20,Leste,Estrategia A,4.2,2946.3135528290104,Danos ao Consumidor,Perdeu
+0,2019-10-20,Norte,Estrategia B,4.0,2864.185642329274,Danos ao Consumidor,Perdeu
+1,2019-10-20,Sul,Estrategia B,3.5000000000000004,0.0,Responsabilidade Civil,Ganhou
+1,2019-10-20,Leste,Estrategia A,2.1999999999999997,0.0,Quebra de Contrato,Ganhou
+0,2019-10-21,Centro,Estrategia C,3.1,2960.12345237546,Danos ao Consumidor,Perdeu
+0,2019-10-21,Sul,Estrategia A,3.1,2805.713942876883,Quebra de Contrato,Perdeu
+0,2019-10-21,Norte,Estrategia B,2.1999999999999997,3446.7082773320535,Violação de Propriedade Intelectual,Perdeu
+0,2019-10-22,Sul,Estrategia B,3.4000000000000004,3264.224849652775,Danos ao Consumidor,Perdeu
+0,2019-10-22,Leste,Estrategia A,3.2,3692.942130715678,Trabalhistas,Perdeu
+0,2019-10-22,Oeste,Estrategia A,2.7,2489.2953561875265,Quebra de Contrato,Perdeu
+1,2019-10-22,Sul,Estrategia B,1.5,0.0,Quebra de Contrato,Ganhou
+1,2019-10-23,Norte,Estrategia C,3.2,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-10-24,Oeste,Estrategia C,3.9,0.0,Danos ao Consumidor,Ganhou
+0,2019-10-24,Centro,Estrategia B,3.1,3071.6569630974554,Trabalhistas,Perdeu
+1,2019-10-24,Leste,Estrategia A,3.1,0.0,Responsabilidade Civil,Ganhou
+1,2019-10-24,Leste,Estrategia B,2.8000000000000003,0.0,Danos ao Consumidor,Ganhou
+0,2019-10-25,Leste,Estrategia B,3.8,3074.75037388945,Responsabilidade Civil,Perdeu
+0,2019-10-25,Norte,Estrategia C,2.5,2710.820839396499,Danos ao Consumidor,Perdeu
+0,2019-10-26,Centro,Estrategia A,3.4000000000000004,3064.7780315083482,Danos ao Consumidor,Perdeu
+1,2019-10-27,Oeste,Estrategia A,2.5,0.0,Responsabilidade Civil,Ganhou
+1,2019-10-27,Oeste,Estrategia A,2.3,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-10-29,Centro,Estrategia B,2.8000000000000003,0.0,Responsabilidade Civil,Ganhou
+1,2019-10-29,Sul,Estrategia B,2.1999999999999997,0.0,Responsabilidade Civil,Ganhou
+0,2019-10-29,Oeste,Estrategia C,2.0,3507.56497267089,Trabalhistas,Perdeu
+1,2019-10-30,Leste,Estrategia B,3.0,0.0,Responsabilidade Civil,Ganhou
+1,2019-10-30,Centro,Estrategia B,2.5,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-10-30,Norte,Estrategia B,2.3,0.0,Quebra de Contrato,Ganhou
+1,2019-10-30,Centro,Estrategia A,2.1,0.0,Trabalhistas,Ganhou
+0,2019-10-31,Oeste,Estrategia B,4.5,3747.314032106431,Violação de Propriedade Intelectual,Perdeu
+0,2019-10-31,Centro,Estrategia A,3.9,3374.7228265304702,Danos Ambientais,Perdeu
+1,2019-10-31,Centro,Estrategia C,3.0,0.0,Danos Ambientais,Ganhou
+1,2019-11-01,Centro,Estrategia C,3.2,0.0,Danos Ambientais,Ganhou
+0,2019-11-01,Oeste,Estrategia A,2.6,2694.6754370716026,Danos Ambientais,Perdeu
+0,2019-11-02,Norte,Estrategia A,1.0,2592.732471877396,Trabalhistas,Perdeu
+0,2019-11-03,Sul,Estrategia C,2.6,2940.1546840583787,Danos ao Consumidor,Perdeu
+0,2019-11-03,Norte,Estrategia A,2.4,3307.852532575799,Violação de Propriedade Intelectual,Perdeu
+0,2019-11-04,Norte,Estrategia C,3.9,3533.0026957180244,Trabalhistas,Perdeu
+0,2019-11-04,Norte,Estrategia C,2.7,3296.916550666587,Danos Ambientais,Perdeu
+0,2019-11-04,Centro,Estrategia B,2.4,2705.6912154726347,Danos ao Consumidor,Perdeu
+0,2019-11-05,Centro,Estrategia A,4.1000000000000005,2860.5074961754076,Danos Ambientais,Perdeu
+0,2019-11-05,Norte,Estrategia C,3.0,3010.7058232665204,Violação de Propriedade Intelectual,Perdeu
+1,2019-11-06,Sul,Estrategia A,2.1,0.0,Quebra de Contrato,Ganhou
+1,2019-11-07,Sul,Estrategia C,3.4000000000000004,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-11-07,Sul,Estrategia C,2.8000000000000003,0.0,Responsabilidade Civil,Ganhou
+0,2019-11-08,Sul,Estrategia C,4.2,2638.3604022190366,Danos Ambientais,Perdeu
+1,2019-11-08,Norte,Estrategia B,3.5000000000000004,0.0,Trabalhistas,Ganhou
+1,2019-11-08,Sul,Estrategia C,1.9,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-11-09,Norte,Estrategia A,3.5000000000000004,2057.405880374511,Responsabilidade Civil,Perdeu
+1,2019-11-09,Leste,Estrategia C,3.0,0.0,Trabalhistas,Ganhou
+1,2019-11-09,Sul,Estrategia C,1.9,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-11-10,Sul,Estrategia A,3.4000000000000004,0.0,Trabalhistas,Ganhou
+1,2019-11-10,Leste,Estrategia C,2.8000000000000003,0.0,Quebra de Contrato,Ganhou
+0,2019-11-11,Sul,Estrategia A,3.3000000000000003,2055.2778222006073,Responsabilidade Civil,Perdeu
+0,2019-11-11,Leste,Estrategia B,2.3,3611.193403953832,Quebra de Contrato,Perdeu
+1,2019-11-12,Oeste,Estrategia B,3.8,0.0,Danos Ambientais,Ganhou
+0,2019-11-12,Sul,Estrategia B,2.5,3120.608276456752,Danos Ambientais,Perdeu
+0,2019-11-12,Leste,Estrategia C,2.4,3831.5799820053653,Responsabilidade Civil,Perdeu
+1,2019-11-12,Norte,Estrategia B,2.1,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-11-12,Leste,Estrategia C,1.9,2543.8607370995114,Danos ao Consumidor,Perdeu
+0,2019-11-13,Sul,Estrategia C,2.6,2493.433819742696,Trabalhistas,Perdeu
+1,2019-11-14,Oeste,Estrategia C,3.5000000000000004,0.0,Danos Ambientais,Ganhou
+1,2019-11-15,Leste,Estrategia A,2.8000000000000003,0.0,Danos Ambientais,Ganhou
+0,2019-11-17,Centro,Estrategia C,3.1,2630.0751148433437,Danos Ambientais,Perdeu
+1,2019-11-17,Leste,Estrategia C,2.1999999999999997,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-11-18,Centro,Estrategia C,3.4000000000000004,3030.633232238325,Danos ao Consumidor,Perdeu
+0,2019-11-18,Centro,Estrategia A,2.0,2842.012933145455,Trabalhistas,Perdeu
+0,2019-11-19,Centro,Estrategia C,4.3,3507.9335181015967,Violação de Propriedade Intelectual,Perdeu
+0,2019-11-19,Oeste,Estrategia B,4.1000000000000005,3182.1839504154595,Danos ao Consumidor,Perdeu
+0,2019-11-20,Oeste,Estrategia A,4.0,2512.064207928407,Responsabilidade Civil,Perdeu
+1,2019-11-21,Oeste,Estrategia C,3.5999999999999996,0.0,Trabalhistas,Ganhou
+0,2019-11-22,Centro,Estrategia C,4.9,3103.2673405892665,Violação de Propriedade Intelectual,Perdeu
+0,2019-11-22,Oeste,Estrategia B,3.8,2841.017714105111,Trabalhistas,Perdeu
+1,2019-11-22,Sul,Estrategia A,1.5,0.0,Responsabilidade Civil,Ganhou
+0,2019-11-23,Sul,Estrategia B,4.3999999999999995,4072.015123337967,Responsabilidade Civil,Perdeu
+0,2019-11-23,Norte,Estrategia C,3.5999999999999996,2377.471182981747,Responsabilidade Civil,Perdeu
+0,2019-11-24,Sul,Estrategia A,2.7,3009.9477952392335,Responsabilidade Civil,Perdeu
+0,2019-11-25,Centro,Estrategia C,3.5999999999999996,1582.7732786547635,Quebra de Contrato,Perdeu
+0,2019-11-26,Sul,Estrategia A,3.2,2288.29464905863,Responsabilidade Civil,Perdeu
+0,2019-11-27,Norte,Estrategia C,3.2,2882.60563251426,Trabalhistas,Perdeu
+0,2019-11-27,Sul,Estrategia C,3.1,3458.9430892699156,Danos Ambientais,Perdeu
+0,2019-11-28,Sul,Estrategia B,2.9000000000000004,3718.30357934981,Quebra de Contrato,Perdeu
+1,2019-11-28,Sul,Estrategia B,2.7,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-11-29,Leste,Estrategia C,3.6999999999999997,2777.4917027749175,Responsabilidade Civil,Perdeu
+1,2019-11-29,Sul,Estrategia A,2.1,0.0,Danos ao Consumidor,Ganhou
+0,2019-11-30,Norte,Estrategia A,3.0,2822.68317580462,Quebra de Contrato,Perdeu
+1,2019-11-30,Oeste,Estrategia A,1.9,0.0,Danos ao Consumidor,Ganhou
+1,2019-12-01,Centro,Estrategia B,4.2,0.0,Trabalhistas,Ganhou
+0,2019-12-01,Leste,Estrategia A,3.5999999999999996,3710.4749257359736,Quebra de Contrato,Perdeu
+0,2019-12-01,Leste,Estrategia B,2.4,3268.89381418625,Responsabilidade Civil,Perdeu
+0,2019-12-01,Oeste,Estrategia A,2.1999999999999997,2425.8992506795353,Quebra de Contrato,Perdeu
+0,2019-12-02,Centro,Estrategia C,3.2,3232.676267638061,Trabalhistas,Perdeu
+1,2019-12-02,Oeste,Estrategia B,2.1999999999999997,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-12-03,Norte,Estrategia B,3.0,0.0,Danos ao Consumidor,Ganhou
+1,2019-12-03,Leste,Estrategia B,2.8000000000000003,0.0,Trabalhistas,Ganhou
+0,2019-12-04,Oeste,Estrategia A,3.0,2715.6023303999755,Danos ao Consumidor,Perdeu
+0,2019-12-05,Leste,Estrategia C,3.8,2728.9807488896654,Trabalhistas,Perdeu
+0,2019-12-05,Leste,Estrategia B,3.2,2641.4779966696246,Quebra de Contrato,Perdeu
+1,2019-12-05,Centro,Estrategia A,2.5,0.0,Violação de Propriedade Intelectual,Ganhou
+0,2019-12-06,Centro,Estrategia A,3.3000000000000003,2611.622097635569,Danos Ambientais,Perdeu
+1,2019-12-07,Oeste,Estrategia B,3.5000000000000004,0.0,Danos ao Consumidor,Ganhou
+1,2019-12-07,Oeste,Estrategia C,2.8000000000000003,0.0,Responsabilidade Civil,Ganhou
+0,2019-12-08,Centro,Estrategia A,2.8000000000000003,3271.2965796550125,Danos Ambientais,Perdeu
+0,2019-12-10,Sul,Estrategia C,4.2,4270.776042962378,Danos Ambientais,Perdeu
+0,2019-12-10,Sul,Estrategia C,3.9,3046.396152742719,Danos Ambientais,Perdeu
+0,2019-12-10,Centro,Estrategia B,3.6999999999999997,2799.4555797312123,Violação de Propriedade Intelectual,Perdeu
+0,2019-12-10,Centro,Estrategia A,2.0,3242.1418880666356,Trabalhistas,Perdeu
+1,2019-12-11,Centro,Estrategia C,3.3000000000000003,0.0,Danos ao Consumidor,Ganhou
+0,2019-12-11,Norte,Estrategia C,1.3,3264.5948381941134,Violação de Propriedade Intelectual,Perdeu
+0,2019-12-12,Centro,Estrategia A,2.1999999999999997,2961.4902191527735,Trabalhistas,Perdeu
+1,2019-12-12,Norte,Estrategia A,1.3,0.0,Quebra de Contrato,Ganhou
+0,2019-12-14,Leste,Estrategia B,3.0,2841.4124932785044,Trabalhistas,Perdeu
+1,2019-12-14,Leste,Estrategia C,1.5,0.0,Danos Ambientais,Ganhou
+1,2019-12-15,Centro,Estrategia A,3.3000000000000003,0.0,Danos Ambientais,Ganhou
+0,2019-12-16,Leste,Estrategia A,3.2,2416.869867216158,Violação de Propriedade Intelectual,Perdeu
+1,2019-12-16,Sul,Estrategia A,2.7,0.0,Responsabilidade Civil,Ganhou
+0,2019-12-16,Oeste,Estrategia C,2.0,2700.3054791695154,Danos ao Consumidor,Perdeu
+0,2019-12-16,Leste,Estrategia C,1.9,3464.058024335887,Responsabilidade Civil,Perdeu
+1,2019-12-16,Leste,Estrategia B,1.4000000000000001,0.0,Quebra de Contrato,Ganhou
+0,2019-12-17,Leste,Estrategia C,4.9,3156.957074588596,Violação de Propriedade Intelectual,Perdeu
+1,2019-12-17,Leste,Estrategia C,1.7999999999999998,0.0,Violação de Propriedade Intelectual,Ganhou
+1,2019-12-18,Sul,Estrategia B,0.8999999999999999,0.0,Responsabilidade Civil,Ganhou
+0,2019-12-19,Leste,Estrategia C,2.8000000000000003,3043.796978480531,Responsabilidade Civil,Perdeu
+0,2019-12-19,Leste,Estrategia C,2.6,2508.1235595096396,Quebra de Contrato,Perdeu
+0,2019-12-20,Centro,Estrategia B,4.2,3428.3020795324906,Quebra de Contrato,Perdeu
+0,2019-12-20,Sul,Estrategia C,3.9,3286.5686069991934,Quebra de Contrato,Perdeu
+0,2019-12-20,Oeste,Estrategia C,2.4,2688.3107487918146,Responsabilidade Civil,Perdeu
+0,2019-12-21,Leste,Estrategia C,3.0,3273.6260061260473,Quebra de Contrato,Perdeu
+0,2019-12-21,Leste,Estrategia A,2.3,3319.42642494074,Responsabilidade Civil,Perdeu
+0,2019-12-22,Centro,Estrategia B,3.8,2416.5101341484037,Danos Ambientais,Perdeu
+1,2019-12-22,Sul,Estrategia C,3.2,0.0,Quebra de Contrato,Ganhou
+1,2019-12-22,Centro,Estrategia B,3.1,0.0,Trabalhistas,Ganhou
+0,2019-12-22,Oeste,Estrategia C,3.1,3435.882518527082,Responsabilidade Civil,Perdeu
+0,2019-12-23,Oeste,Estrategia B,3.6999999999999997,3118.31251669874,Quebra de Contrato,Perdeu
+1,2019-12-23,Centro,Estrategia C,3.3000000000000003,0.0,Responsabilidade Civil,Ganhou
+0,2019-12-24,Oeste,Estrategia C,2.7,2549.8066981751163,Responsabilidade Civil,Perdeu
+1,2019-12-24,Oeste,Estrategia C,1.6,0.0,Danos Ambientais,Ganhou
+1,2019-12-25,Norte,Estrategia A,2.4,0.0,Danos ao Consumidor,Ganhou
+1,2019-12-25,Sul,Estrategia B,2.4,0.0,Danos Ambientais,Ganhou
+0,2019-12-26,Norte,Estrategia B,5.0,3076.993268983352,Trabalhistas,Perdeu
+0,2019-12-26,Norte,Estrategia A,3.5000000000000004,3736.882679394498,Quebra de Contrato,Perdeu
+0,2019-12-27,Centro,Estrategia B,4.1000000000000005,3087.1552868129047,Violação de Propriedade Intelectual,Perdeu
+0,2019-12-27,Sul,Estrategia C,3.5999999999999996,2479.5672041041835,Danos Ambientais,Perdeu
+0,2019-12-28,Oeste,Estrategia A,4.3,2894.338604241074,Trabalhistas,Perdeu
+1,2019-12-29,Leste,Estrategia C,3.8,0.0,Danos ao Consumidor,Ganhou
+0,2019-12-30,Centro,Estrategia C,3.3000000000000003,3598.8585146325386,Responsabilidade Civil,Perdeu
+0,2019-12-30,Norte,Estrategia B,3.0,2468.7477528407126,Responsabilidade Civil,Perdeu
+0,2019-12-31,Leste,Estrategia A,3.1,2943.794058359655,Trabalhistas,Perdeu
+1,2019-12-31,Centro,Estrategia B,2.3,0.0,Violação de Propriedade Intelectual,Ganhou
